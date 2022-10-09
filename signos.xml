@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding='UTF-8'?>
+
+<root>
+
+ <signos>
+    
+    <signo>
+
+        <dataInicio>21/03</dataInicio>
+
+        <dataFim>20/04</dataFim>
+
+        <signoNome>Áries</signoNome>
+
+        <descricao>tem uma personalidade que é marcada pela intensidade, tanto em suas relações quanto em suas decisões.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>21/04</dataInicio>
+
+        <dataFim>20/05</dataFim>
+
+        <signoNome>Touro</signoNome>
+
+        <descricao>são ligadas à vida material e, por isso, podemos dizer que elas estão relacionadas ao seu dinheiro, à comida, posses, ao conforto e ao corpo.</descricao>
+
+    </signo>
+
+    <signo>
+
+            <dataInicio>21/05</dataInicio>
+
+            <dataFim>21/06</dataFim>
+
+            <signoNome>Gêmeos</signoNome>
+
+            <descricao> são comunicativas, versáteis, sociáveis , inteligentes, curiosas, gostam de ouvir o ponto de vista das outras pessoas, são flexíveis e amam trocas.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>22/06</dataInicio>
+
+        <dataFim>22/07</dataFim>
+
+        <signoNome>Câncer</signoNome>
+
+        <descricao>estão entre as mais sensíveis do zodíaco. São românticas, sonhadoras, fiéis, cuidadosas e muito dedicadas à família.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>23/07</dataInicio>
+
+        <dataFim>22/08</dataFim>
+
+        <signoNome>Leão</signoNome>
+
+        <descricao> muito confiantes, segumem em busca do que acreditam e gostam de ser valorizadas e apreciadas pelas pessoas.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>23/08</dataInicio>
+
+        <dataFim>22/09</dataFim>
+
+        <signoNome>Virgem</signoNome>
+
+        <descricao> costumam ser inteligentes, detalhistas, metódicas, organizadas, discretas e perfeccionistas.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>23/09</dataInicio>
+
+        <dataFim>22/10</dataFim>
+
+        <signoNome>Libra</signoNome>
+
+        <descricao> são diplomáticas, justiceiras, pacíficas e sociáveis. Conversam com todos e têm uma boa relação social nos espaços em que frequentam.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>23/10</dataInicio>
+
+        <dataFim>21/11</dataFim>
+
+        <signoNome>Escorpião</signoNome>
+
+        <descricao> tendem a ter força e capacidade de se reinventar, mesmo diante de situações desafiadoras.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>22/11</dataInicio>
+
+        <dataFim>21/12</dataFim>
+
+        <signoNome>Sagitário</signoNome>
+
+        <descricao> costumam acreditar que tudo acontece por um motivo e que tudo tem solução. Encaram a vida com autoconfiança. Por isso tudo, o idealismo também é característica forte do signo de Sagitário, mas são capazes de contagiar tudo e a todos sem fazer muito esforço.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>22/12</dataInicio>
+        
+        <dataFim>31/12</dataFim>
+        
+
+        <signoNome>Capricórnio</signoNome>
+
+        <descricao> coerentes, disciplinados, sérios e responsáveis. Além disso, desenvolvem desde cedo uma maturidade que surpreende a todos.</descricao>
+
+    </signo>
+    
+    <signo>
+
+        <dataInicio>01/01</dataInicio>
+        
+        <dataFim>19/01</dataFim>
+        
+        <signoNome>Capricornio</signoNome>
+
+        <descricao> são coerentes, disciplinados, sérios e responsáveis. Além disso, desenvolvem desde cedo uma maturidade que surpreende a todos.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>20/01</dataInicio>
+
+        <dataFim>18/02</dataFim>
+
+        <signoNome>Aquário</signoNome>
+
+        <descricao> buscam por inovação e independência são fortes características do signo de Aquário. Alta criatividade.</descricao>
+
+    </signo>
+
+    <signo>
+
+        <dataInicio>19/02</dataInicio>
+
+        <dataFim>20/03</dataFim>
+
+        <signoNome>Peixes</signoNome>
+
+        <descricao> são sensíveis, sonhadoras, empáticas, pacientes, calmas, intuitivas, românticas, generosas, místicas e amáveis.</descricao>
+
+    </signo>
+
+</signos>
+<!-- Weverson Silva de Lima -->
+</root>
